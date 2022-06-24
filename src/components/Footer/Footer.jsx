@@ -1,10 +1,11 @@
 import React from 'react'
+import './Footer.css';
 
 function Footer() {
   return (
-    <div className='footer'>
-        <div></div>
-    </div>
+    <footer className='darkBG'>
+      <span className='footer-content'>React Layouts by Jeffrey Vaughn</span>
+    </footer>
   )
 }
 
