@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    justify-items: start;
+}
+
+.col{
+    height: 100%;
+}
+
+.col1{
+    background-color: blue;
+}
+
+.col2{
+    background-color: purple;
+}
