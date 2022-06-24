@@ -5,7 +5,7 @@ import Navbar from './components/Navbar/Navbar';
 
 import Home from './routes/Home/Home';
 import Grid1 from './routes/Grid1/Grid1';
-import Grid2 from './routes/Grid2';
+import Grid2 from './routes/Grid2/Grid2';
 import Grid3 from './routes/Grid3';
 import Footer from './components/Footer/Footer';
 

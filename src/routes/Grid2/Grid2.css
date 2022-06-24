@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+    justify-items: start;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    min-height: 75vh;
+    flex-wrap: wrap;
+}
+
+.sidebar{
+    background-color: purple;
+    margin-left: 100px;
+    flex-grow: 1;
+}
+
+.main-content{
+    background-color: blue;
+    margin-right: 100px;
+    flex-grow: 3;
+}
