@@ -18,6 +18,7 @@
     flex-grow: 1;
     flex-shrink: 1;
 }
+
 .col1{
     background-color: blue;
     margin-left: 100px;
