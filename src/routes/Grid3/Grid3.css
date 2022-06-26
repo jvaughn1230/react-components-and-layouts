@@ -1,0 +1,30 @@
+.container-3 {
+    display: flex;
+    justify-content: center;
+    justify-items: start;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    min-height: 100%;
+    flex-wrap: wrap;
+}
+
+.grid3-col{
+    margin: 10px;
+    min-height: 100%;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.left-col-3{
+    background-color: blue;
+    margin-left: 100px;
+}
+
+.right-col-3{
+    background-color: purple;
+    margin-right: 100px;
+}
+
+.bottom-box{
+    background-color: red;
+}
